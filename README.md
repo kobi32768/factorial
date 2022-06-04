@@ -1,6 +1,5 @@
 # factorial
 Compute factorial with Python
-There is MANY bugs
 
 ## How to use
 
